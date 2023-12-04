@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.12"
+  },
+  "name": "svg-logo-generator",
+  "description": "## Description",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
